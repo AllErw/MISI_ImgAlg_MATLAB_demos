@@ -1,2 +1,6 @@
 
 *.zip
+Supporting redistributables/x64/pgort140.dll
+Supporting redistributables/x64/VC_redist.x64.exe
+Supporting redistributables/x86/pgort140.dll
+Supporting redistributables/x86/VC_redist.x86.exe
